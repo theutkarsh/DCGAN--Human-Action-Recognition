@@ -34,18 +34,16 @@ Now you can run the scripts in the data folder to move the videos to the appropr
 
 ## Architecture
 
-The architecture referenced here was based on [DCGAN Architecture](https://arxiv.org/abs/1511.06434)
-
+### Generator architecture
 ![alt tag](Img/DCGAN0.png)
 
 
-The added layer for the current architecture-
-
+### Discriminator Architecture
 ![alt tag](Img/DCGAN1.png)
 
 
-### UCF101 Citation
+###Citations
 
 Khurram Soomro, Amir Roshan Zamir and Mubarak Shah, UCF101: A Dataset of 101 Human Action Classes From Videos in The Wild., CRCV-TR-12-01, November, 2012. 
 
-    
+[DCGAN Architecture](https://arxiv.org/abs/1511.06434)
