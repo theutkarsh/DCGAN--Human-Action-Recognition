@@ -17,12 +17,12 @@ Keras implementation of [Deep Convolutional Generative Adversarial Networks](htt
 
 The architecture referenced here was based on [DCGAN Architecture](https://arxiv.org/abs/1511.06434)
 
-![alt tag]()
+![alt tag](DCGAN0.png)
 
 
 The added layer for the current architecture-
 
-![alt tag]()
+![alt tag](DCGAN1.png)
 
 
 
